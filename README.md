@@ -9,12 +9,12 @@ That is why our team developed __ChangeCounter__ an application to make calculat
 __
 
 __Features__
-[x] Accessible interface
-[x] Correctly calculate appropriate denominations
-[x] Track denominations returned
-[x] Interactive and Intuitive
+- [x] Accessible interface
+- [x] Correctly calculate appropriate denominations
+- [x] Track denominations returned
+- [x] Interactive and Intuitive
 
 __Features in Progress__
-[] Integration with Square POS
-[] Machine Learning implementation using camera to identify returned denominations
-[] Apple Developer account to host on AppStore
+- [] Integration with Square POS
+- [] Machine Learning implementation using camera to identify returned denominations
+- [] Apple Developer account to host on AppStore
