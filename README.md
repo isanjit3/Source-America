@@ -6,7 +6,7 @@ We worked with Chris, a cheerful employee at Furnace Hills that loves to interac
 
 That is why our team developed __ChangeCounter__ an application to make calculating change a much more intuitive proceess. Simply enter in the amount of change to be returned and the app will tell you exactly how many bills and coins to return.
 
-__
+---
 
 __Features__
 - [x] Accessible interface
