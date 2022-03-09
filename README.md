@@ -15,6 +15,6 @@ __Features__
 - [x] Interactive and Intuitive
 
 __Features in Progress__
-- [] Integration with Square POS
-- [] Machine Learning implementation using camera to identify returned denominations
-- [] Apple Developer account to host on AppStore
+- [ ] Integration with Square POS
+- [ ] Machine Learning implementation using camera to identify returned denominations
+- [ ] Apple Developer account to host on AppStore
